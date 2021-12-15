@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vim
 *~
 *.sw[p_]
@@ -27,3 +28,10 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+=======
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+>>>>>>> 42de33cd5bb950507f0fe3487955e2d46d0f5014
